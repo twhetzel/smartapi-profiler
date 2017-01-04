@@ -13,8 +13,8 @@ If a match is not found, a sample value from the keypath-value mapping is used t
 resources whose values match the pattern of this keypath. Matching resources are 
 displayed as resources with a pattern match.
 
-The application is used together with the smartAPI Editor and submits data to 
-the `responseDataType` field of the Editor.
+The application is used together with the [smartAPI Editor](http://smart-api.info/editor/) 
+and submits data to the `responseDataType` field of the Editor.
 
 
 ## Dependencies
