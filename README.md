@@ -23,9 +23,9 @@ and submits data to the `responseDataType` field of the Editor.
 
 ## Running the App
 To run the app: <br>
-`python main.py`
+`python app.py`
 
 To run in debug mode: <br>
-`python main.py --debug=true`
+`python app.py --debug=true`
 
  
