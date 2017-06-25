@@ -1,0 +1,16 @@
+{% extends "main.html" %}
+{% block content %}
+{% include "header.html" %}
+
+<div class="container">
+    <div class="row">
+        <h3>This is a test</h3>
+        {{ ws_input }}
+        <br>
+        {{ json_encode(my_dict) }}
+        <br>
+        {{ my_dict_json }}
+    </div>
+</div>
+
+{% endblock %}
